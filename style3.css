@@ -1,0 +1,135 @@
+body{margin: 0;
+display: flex;}
+
+a {color: black;
+text-decoration: none;}
+    
+#fundoBarra {background-image: url(./fotos/fundoBarra.png);
+height: 100vh;
+width: 12%;
+font-family: "inter";}
+
+#logo {background-image: url(./fotos/logo.png);
+border-radius: 50%;
+width: 80px;
+height: 80px;
+background-position: center;
+margin: auto;}
+
+#menu {color: white;
+font-family: "inter";
+font-size: 16px;
+margin: 0;
+display: flex;
+padding-left: 30px;}
+
+#home {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: #FC2822;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#login {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#QuemSomos {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#Buscas {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#contato {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#pedidos {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#fundo {background-image: url(./fotos/fundoo.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 963px;
+width: 1700px;}
+
+#pergunta {font-family: "inter";
+font-size: 24px;
+color: white;
+text-align: center;
+padding-top: 70px;}
+
+#saudacoes {font-family: "inter";
+font-size: 20px;
+color: white;
+text-align: center;}
+
+#texto {position: absolute;
+width: 585px;
+height: 620px;
+left: 480px;
+top: 212px;  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+text-align: justify;
+letter-spacing: -0.01em;
+color: #FFFFFF;}
+
+#cozinha {position: absolute;
+width: 379px;
+height: 360px;
+left: 1300px;
+top: 306px;}
+
+#cozinha img {border: solid white 10px;}

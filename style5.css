@@ -1,0 +1,172 @@
+body{margin: 0;
+display: flex;}
+
+a {color: black;
+text-decoration: none;}
+            
+#fundoBarra {background-image: url(./fotos/fundoBarra.png);
+height: 100vh;
+width: 12%;
+font-family: "inter";}
+        
+#logo {background-image: url(./fotos/logo.png);
+border-radius: 50%;
+width: 80px;
+height: 80px;
+background-position: center;
+margin: auto;}
+        
+#menu {color: white;
+font-family: "inter";
+font-size: 16px;
+margin: 0;
+display: flex;
+padding-left: 30px;}
+        
+#home {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: #FC2822;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+    
+#login {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+        
+#QuemSomos {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+        
+#Buscas {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+        
+#contato {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+        
+#pedidos {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+        
+#fundo {background-image: url(./fotos/fundoo.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 963px;
+width: 1700px;}
+
+#titulo {font-family: "inter";
+font-size: 25px;
+color: white;
+padding-top: 300px;
+margin-left: 300px;}
+
+#texto {position: absolute;
+width: 383px;
+height: 192px;
+left: 72px;
+top: 354px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+color: #FFFFFF;
+margin-left: 460px;}
+
+.fundo {background-color: #D9D9D9;
+position: absolute;
+width: 575px;
+height: 517px;
+left: 1180px;
+top: 220px;
+padding-left: 1%;
+padding-right: 1%;}
+
+#descrição {font-family: "inter";
+font-size: 16px;
+color: black;
+padding-top: 3%;}
+
+#descrição1 {font-family: "inter";
+font-size: 16px;
+color: black;}
+
+#Campo {background-color: white;
+font-family: "inter";
+font-size: 16px;
+color: #828282;
+border-radius: 8px;
+width: 567px;
+height: 6%;
+align-items: center;
+display: flex;
+padding-left: 2%;}
+
+#Mensagem {background-color: white;
+font-family: "inter";
+font-size: 16px;
+color: #828282;
+border-radius: 8px;
+width: 567px;
+height: 26%;
+align-items: center;
+display: flex;
+padding-left: 2%;}
+
+#enter {align-items: center;
+text-align: center;
+font-family: "inter";
+font-size: 16px;
+color: black;
+background-color: #CFEB62;
+height: 4%;
+width: 616px;
+margin-left: 950px;
+margin-top: 400px;}

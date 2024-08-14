@@ -1,0 +1,210 @@
+body {margin: 0;
+display: flex;}
+
+a {color: black;
+text-decoration: none;}
+    
+#fundoBarra {background-image: url(./fotos/fundoBarra.png);
+height: 100vh;
+width: 12%;
+font-family: "inter";}
+
+#logo {background-image: url(./fotos/logo.png);
+border-radius: 50%;
+width: 80px;
+height: 80px;
+background-position: center;
+margin: auto;}
+
+#menu {color: white;
+font-family: "inter";
+font-size: 16px;
+margin: 0;
+display: flex;
+padding-left: 30px;}
+
+#home {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: #FC2822;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#login {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#QuemSomos {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#Buscas {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#contato {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#pedidos {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+
+#fundo {background-image: url(./fotos/fundoo.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 963px;
+width: 1700px;
+display: flex;
+justify-content: center;
+align-items: center;}
+
+#convite {font-family: "inter";
+font-size: 24px;
+color: #FFFF;
+
+}
+
+#convite2 {font-family: "inter";
+font-size: 16px;
+color: #FFFF;
+
+padding-bottom: 1%;}
+
+#email {display: flex;
+align-items: center;
+padding: 8px 16px;
+
+width: 400px;
+height: 30px;
+background: #FFFFFF;
+border-radius: 8px;}
+
+#convite3 {display: flex;
+align-items: center;
+padding: 8px 16px;
+margin-top: 1%;
+width: 400px;
+height: 30px;
+background: #000000;
+color: #FFFFFF;
+border-radius: 8px;}
+
+#continuar {font-family: "inter";
+color: white;
+font-size: 16px;
+
+margin: 1%;
+text-wrap: nowrap;}
+
+#google {display: flex;
+align-items: center;
+font-family: "inter";
+color: #000000;
+font-size: 16px;
+background-color: #FFFFFF;
+border-radius: 8px;
+width: 400px;
+height: 30px;
+padding: 8px 16px;
+gap: 160px;
+}
+
+#google img {width: 20px;
+height: 20px;}
+
+#facebook {display: flex;
+align-items: center;
+font-family: "inter";
+color: #000000;
+font-size: 16px;
+background-color: #FFFFFF;
+border-radius: 8px;
+width: 400px;
+height: 30px;
+padding: 8px 16px;
+gap: 160px;
+
+margin-top: 1%;}
+
+#facebook img {width: 20px;
+height: 20px;}
+
+#instrução {display: flex;
+font-family: "inter";
+font-size: 16px;
+color: #828282;
+width: 400px;
+height: 30px;
+
+text-align: center;
+margin: 1%;}
+
+.linha {
+    display: flex;
+    width: 100%;
+}
+
+.linhaa {
+    width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;}
+
+.tira1 {
+    width: 100%;
+    background-color: white;
+    height: 2px;
+}
+
+
+.teste {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

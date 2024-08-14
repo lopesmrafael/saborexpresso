@@ -1,0 +1,173 @@
+body{margin: 0;
+display: flex;}
+
+a {color: black;
+text-decoration: none;}
+                
+#fundoBarra {background-image: url(./fotos/fundoBarra.png);
+height: 100vh;
+width: 12%;
+font-family: "inter";}
+            
+#logo {background-image: url(./fotos/logo.png);
+border-radius: 50%;
+width: 80px;
+height: 80px;
+background-position: center;
+margin: auto;}
+            
+#menu {color: white;
+font-family: "inter";
+font-size: 16px;
+margin: 0;
+display: flex;
+padding-left: 30px;}
+            
+#home {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: #FC2822;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+        
+#login {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+            
+#QuemSomos {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+            
+#Buscas {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+            
+#contato {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+            
+#pedidos {display: flex;
+flex-direction: row;
+align-items: center;
+padding-left: 10px;
+gap: 10px;
+width: 210px;
+height: 40px;
+background: white;
+color: black;
+border-radius: 8px;
+margin: 2%;}
+            
+#fundo {background-image: url(./fotos/fundoo.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 963px;
+width: 1700px;}
+
+#pedidoss {font-family: "inter";
+font-size: 64px;
+color: white;
+text-align: center;}
+
+.produtos {border: black;
+border: 1%;
+display: grid;
+grid-template-columns: 400px 400px 400px;
+grid-template-rows: 400px 400px 400px;
+padding-left: 270px;
+padding-top: 1%;}
+
+#valores {display: flex;
+align-items: center;
+background-color: #d9d9d9c5;
+gap: 120px;
+width: 250px;
+height: 20px;
+padding: 25px;
+font-family: "inter";
+font-size: 15px;}
+
+#campo1 {background-image: url(./fotos/acaraje\ \(1\).png);
+background-repeat: no-repeat;
+border: solid #d9d9d950 20px;
+width: 300px;
+height: 70px;
+align-items: center;
+padding-top: 230px;}
+
+#campo2 {background-image: url(./fotos/feijoada.png);
+background-repeat: no-repeat;
+border: solid #d9d9d950 20px;
+width: 300px;
+height: 70px;
+align-items: center;
+padding-top: 230px;}
+
+#campo3 {background-image: url(./fotos/macarrão.png);
+background-repeat: no-repeat;
+border: solid #d9d9d950 20px;
+width: 300px;
+height: 70px;
+align-items: center;
+padding-top: 230px;}
+
+#campo4 {background-image: url(./fotos/pizza.png);
+background-repeat: no-repeat;
+border: solid #d9d9d950 20px;
+width: 300px;
+height: 70px;
+align-items: center;
+padding-top: 230px;}
+
+#campo5 {background-image: url(./fotos/rizoto.png);
+background-repeat: no-repeat;
+border: solid #d9d9d950 20px;
+width: 300px;
+height: 70px;
+align-items: center;
+padding-top: 230px;}
+
+#campo6 {background-image: url(./fotos/tropeiro.png);
+background-repeat: no-repeat;
+border: solid #d9d9d950 20px;
+width: 300px;
+height: 70px;
+align-items: center;
+padding-top: 230px;}
